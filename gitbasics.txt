@@ -36,3 +36,6 @@ Push
 
 New branch 
 >>git checkout -b "Branch name"
+
+switch branch 
+>>git checkout "desired_branch_name"
