@@ -33,3 +33,6 @@ Push
 >>git status
 >>git commit -m "Commit Message"
 >>git push
+
+New branch 
+>>git checkout -b "Branch name"
