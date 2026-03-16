@@ -39,3 +39,6 @@ New branch
 
 switch branch 
 >>git checkout "desired_branch_name"
+
+Clone
+>>git clone -------url--------
